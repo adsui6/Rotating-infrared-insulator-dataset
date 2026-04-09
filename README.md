@@ -1,6 +1,7 @@
-## 许可证
-本数据集采用 **Creative Commons Attribution 4.0 International License (CC-BY-4.0)** 授权发布。
+This dataset is made publicly available under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+By using this dataset, you agree to the following terms:
 
-使用本数据集即表示你同意遵守以下条款：
-1.  **署名 (Attribution)**：使用本数据集时，必须保留原作者的署名信息，并提供指向本仓库的链接。
-2.  **引用格式**：在论文或项目中引用本数据集时，请使用以下格式：
+    Attribution: You must give appropriate credit to the original author(s), provide a link to this GitHub repository, and indicate if changes were made.
+    Citation: If you use this dataset in academic research or publications, please properly cite this work in your paper.
+
+Full license: https://creativecommons.org/licenses/by/4.0/
